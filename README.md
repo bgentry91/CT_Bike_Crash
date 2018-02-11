@@ -5,3 +5,14 @@ Using this data, I would like to attempt to predict the severity of a bike crash
 The data in this set covers 19 years of crashes, from 1995 to 2014. Most of the data in the set is categorical, which will force the creation of a number of boolean dummy variables - in an attempt to cut down on these variables, I will consolidate some of the categories to increase clarity. For example - weather conditions "Rain", "Snow", "Hail", and "Sleet" are simply consolidated to "Precipitation."
 
 Looking at the results of the tuned & unturned regression trees, the RSME does not indicate a great level of fit. Unfortunately, this may indicate that the given predictors are poor for identifying the severity of a bicycle crash.
+
+
+    | CustomerName        |
+    -----------------------
+    |Around the Horn      |
+    |B's Beverages        |
+    |Consolidated Holdings|
+    |Eastern Connection   |
+    |Island Trading       |
+    |North/South          |
+    |Seven Seas Imports   |
