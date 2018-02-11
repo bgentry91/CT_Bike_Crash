@@ -7,12 +7,12 @@ The data in this set covers 19 years of crashes, from 1995 to 2014. Most of the 
 Looking at the results of the tuned & unturned regression trees, the RSME does not indicate a great level of fit. Unfortunately, this may indicate that the given predictors are poor for identifying the severity of a bicycle crash.
 
 
-| CustomerName        |
------------------------
-|Around the Horn      |
-|B's Beverages        |
-|Consolidated Holdings|
-|Eastern Connection   |
-|Island Trading       |
-|North/South          |
-|Seven Seas Imports   |
+| CustomerName        | BBBG
+---------------------|----
+Around the Horn      | A
+B's Beverages        | A
+Consolidated Holdings| A
+Eastern Connection   | A
+Island Trading      | A
+North/South        |  A
+Seven Seas Imports| A
